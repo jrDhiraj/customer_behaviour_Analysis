@@ -2,9 +2,6 @@
 
 > An end-to-end Retail Data Analytics project that transforms raw customer transaction data into actionable business insights using **Python, SQL (PostgreSQL), and Power BI**.
 
-![Alt Text](img\front_head.png)
----
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![SQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
@@ -22,7 +19,6 @@ The project follows a complete analytics lifecycle:
 - 🗄️ SQL Analysis using PostgreSQL
 - 📊 Interactive Dashboard in Power BI
 - 📑 Business Report with Strategic Recommendations
-  
 
 ---
 
@@ -61,7 +57,7 @@ The objective was to identify high-value customers, optimize discounts, improve 
 ---
 
 # 🔄 Analytics Workflow
-![Alt Text](img\pipeline.png)
+
 ```
 Raw Dataset
       │
@@ -85,8 +81,9 @@ Business Insights
 ```
 
 ---
+
 # 📈 Dashboard KPIs
-![Alt Text](img\dashboard.png)
+
 - 💰 Total Revenue
 - 👥 Total Customers
 - ⭐ Average Review Rating
@@ -120,8 +117,6 @@ Business Insights
 ---
 
 ### 💸 High Spending Discount Users
-
-![Alt Text](img\revenue.png)
 
 - **839 customers** spent above average despite using discounts.
 
@@ -178,15 +173,24 @@ Express shipping customers spend slightly more than Standard shipping customers.
 Customer-Shopping-Behavior-Analysis/
 
 │── Data/
-│── SQL_analysis/
-│── Dashboard/
-│── python_analysis/
+│── SQL/
+│── PowerBI/
 │── Images/
-│── reportfile.txt
+│── Report/
 │── README.md
-│── requirements.txt
+```
+
+---
+
+# 📸 Dashboard Preview
+
+> *(Add your Power BI Dashboard screenshot here)*
 
 ```
+images/dashboard.png
+```
+
+---
 
 # 🚀 Skills Demonstrated
 
@@ -202,15 +206,25 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
+# 📈 Future Improvements
+
+- Customer Lifetime Value (CLV)
+- RFM Analysis
+- Predictive Sales Forecasting
+- Churn Prediction
+- Recommendation System
+
+---
+
 # 👨‍💻 Author
 
-**Dhiraj Kumar Sharma**
+**Dhiraj Sharma**
 
 Data Science | Machine Learning | Data Analytics
 
-GitHub: https://github.com/jrDhiraj/
+GitHub: https://github.com/yourusername
 
-LinkedIn: https://www.linkedin.com/in/dhiraj-kumar-sharma-9054a5243/
+LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
