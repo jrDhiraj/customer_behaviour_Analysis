@@ -2,7 +2,7 @@
 
 > An end-to-end Retail Data Analytics project that transforms raw customer transaction data into actionable business insights using **Python, SQL (PostgreSQL), and Power BI**.
 
-![Alt Text](img\front_head.png)
+![Screenshort](/img/front_head.png)
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -61,7 +61,7 @@ The objective was to identify high-value customers, optimize discounts, improve 
 ---
 
 # 🔄 Analytics Workflow
-![Alt Text](img\pipeline.png)
+![Alt Text](/img/pipeline.png)
 ```
 Raw Dataset
       │
@@ -86,7 +86,7 @@ Business Insights
 
 ---
 # 📈 Dashboard KPIs
-![Alt Text](img\dashboard.png)
+![Alt Text](img/dashboard.png)
 - 💰 Total Revenue
 - 👥 Total Customers
 - ⭐ Average Review Rating
@@ -121,7 +121,7 @@ Business Insights
 
 ### 💸 High Spending Discount Users
 
-![Alt Text](img\revenue.png)
+![Alt Text](img/revenue.png)
 
 - **839 customers** spent above average despite using discounts.
 
