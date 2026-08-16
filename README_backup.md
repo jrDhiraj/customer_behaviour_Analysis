@@ -2,6 +2,12 @@
 
 > An end-to-end Retail Data Analytics project that transforms raw customer transaction data into actionable business insights using **Python, SQL (PostgreSQL), and Power BI**.
 
+<<<<<<< HEAD
+=======
+![Screenshort](/img/front_head.png)
+---
+
+>>>>>>> 6df88ad07466afda7e898edb2e7018597d707e16
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![SQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
@@ -57,7 +63,11 @@ The objective was to identify high-value customers, optimize discounts, improve 
 ---
 
 # 🔄 Analytics Workflow
+<<<<<<< HEAD
 
+=======
+![Alt Text](/img/pipeline.png)
+>>>>>>> 6df88ad07466afda7e898edb2e7018597d707e16
 ```
 Raw Dataset
       │
@@ -83,7 +93,11 @@ Business Insights
 ---
 
 # 📈 Dashboard KPIs
+<<<<<<< HEAD
 
+=======
+![Alt Text](img/dashboard.png)
+>>>>>>> 6df88ad07466afda7e898edb2e7018597d707e16
 - 💰 Total Revenue
 - 👥 Total Customers
 - ⭐ Average Review Rating
@@ -118,6 +132,11 @@ Business Insights
 
 ### 💸 High Spending Discount Users
 
+<<<<<<< HEAD
+=======
+![Alt Text](img/revenue.png)
+
+>>>>>>> 6df88ad07466afda7e898edb2e7018597d707e16
 - **839 customers** spent above average despite using discounts.
 
 ---
@@ -216,6 +235,7 @@ images/dashboard.png
 
 ---
 
+<<<<<<< HEAD
 # 👨‍💻 Author
 
 **Dhiraj Sharma**
@@ -228,4 +248,6 @@ LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
+=======
+>>>>>>> 6df88ad07466afda7e898edb2e7018597d707e16
 ⭐ If you found this project useful, don't forget to star the repository!
